@@ -25,7 +25,7 @@ The interpeter could be swapped out for a compiler which generates machine-reada
 
 
 ***
-See Callanan's own explanation [on youtube](https://youtu.be/88lmIMHhYNs) for a more detailed look into the workings of the program.
+See Callanan's own explanation [on youtube](https://www.youtube.com/watch?v=88lmIMHhYNs&list=PLZQftyCk7_Sdu5BFaXB_jLeJ9C78si5_3) for a more detailed look into the workings of the program.
 ***
 
 
