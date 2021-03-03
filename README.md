@@ -24,4 +24,5 @@ The interpeter simply does what's intended according to the parser's results, an
 The interpeter could be swapped out for a compiler which generates machine-readable code that your computer can later execute, or could be swapped out for a transpiler which generates code for another language.
 
 
+---
 **Tested on OpenJDK 11**
