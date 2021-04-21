@@ -1,6 +1,6 @@
 # Java Math Interpreter
 
-This is a math interpreter that can evaluate simple arithmetic expressions, written from scratch in Java. The interpreter analyzes and processes the input in the Lexer and the Parser respectively.
+This is a math interpreter, written from scratch in Java, that can evaluate simple arithmetic expressions. The interpreter analyzes and processes the input in the Lexer and the Parser respectively.
 
 This is my attempt to create a version of [David Callanan's](https://github.com/davidcallanan) interpreter that was written in Python and can be found [here](https://github.com/davidcallanan/py-simple-math-interpreter).
 
